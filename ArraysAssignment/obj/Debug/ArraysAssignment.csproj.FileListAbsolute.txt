@@ -1,0 +1,10 @@
+C:\Csharp\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+C:\Csharp\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+C:\Csharp\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+C:\Csharp\ArraysAssignment\ArraysAssignment\bin\Debug\ClassLibrary1.dll
+C:\Csharp\ArraysAssignment\ArraysAssignment\bin\Debug\ClassLibrary1.pdb
+C:\Csharp\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.AssemblyReference.cache
+C:\Csharp\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Csharp\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAs.6F946955.Up2Date
+C:\Csharp\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+C:\Csharp\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.pdb
